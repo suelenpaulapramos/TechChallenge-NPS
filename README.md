@@ -31,7 +31,9 @@ TechChallenge-NPS/
 │   └── 01_Analise_NPS.ipynb
 │
 ├── reports/
+│
 │   └── Relatorio_Analise_NPS.pdf
+│
 ├── slides/
 │   └── Apresentacao_TechChallenge_NPS.pptx
 │
@@ -47,14 +49,16 @@ TechChallenge-NPS/
 Durante o desenvolvimento foram analisados diversos indicadores relacionados à satisfação dos clientes:
 
 - NPS
+- Contatos com o atendimento
 - Reclamações
-- Contatos com atendimento
-- Tempo de entrega
 - Atraso na entrega
-- Recompra em até 30 dias
-- Ticket médio
-- Comparação por região
-- Comparação por faixa etária
+- Tempo de resolução
+- Tentativas de entrega
+- Tempo de relacionamento
+- Recompra
+- Análise por região
+- Análise por idade
+
 
 ---
 
