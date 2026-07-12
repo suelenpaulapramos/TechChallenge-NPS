@@ -31,8 +31,8 @@ TechChallenge-NPS/
 │   └── 01_Analise_NPS.ipynb
 │
 ├── reports/
-│
 │   └── Relatorio_Analise_NPS.pdf
+│   └── Apresentacao_TechChallenge_NPS.mp4
 │
 ├── slides/
 │   └── Apresentacao_TechChallenge_NPS.pptx
